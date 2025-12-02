@@ -2,5 +2,5 @@
 
 ###
 
-<p align="left">Enllaç al drive amb tots els continguts.</p>
+<p align="left">Enllaç al drive amb tots els continguts: https://drive.google.com/file/d/1zE1Mk4IB9n1dV9VR3kgyUe7l4EaLF5JZ/view?usp=drive_link</p>
  
